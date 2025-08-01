@@ -4,6 +4,15 @@ For tech-savvy person only. All notable changes to this project will be document
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 2.0.0-alpha.28 (2025-08-01)
+### Added
+- "Open image in new tab" on images inside the article for mobile device.
+
+### Changed
+- Minor CSS tweaks on user-owned tickets page.
+- Minor CSS tweaks on event ticketing purchase session.
+- Fix inability to scroll the event ticketing purchase session page for devices that are lower than 720 pixels in height. (Thanks to Bee2001!)
+
 ## 2.0.0-alpha.27 (2025-07-30)
 ### Changed
 - Fix an error where the header buttons remains unchanged after redirection for authenticated users.
